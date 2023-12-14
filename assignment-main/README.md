@@ -2,7 +2,7 @@
 # assignment 
 ---
 ##### - professor's class contents
-###### professor GITHUB : [ai7dnn/OSS-lect](https://github.com/ai7dnn/OSS-lect)
+###### professor GITHUB : [https://github.com/ai7dnn/2023-OSS)
 
 
 
